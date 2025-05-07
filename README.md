@@ -21,7 +21,7 @@
   </style>
 </head>
 <body>
-  <img src="https://raw.githubusercontent.com/sohndesighn/argentina/main/image1.png" alt="Argentina Image 1">
+  <img src="https://raw.githubusercontent.com/sohndesighn/ARGENTINA/main/image1.png" alt="ARGENTINA.png">
  
   <!-- 여기에 이미지 파일이 더 있으면 계속 추가 -->
 </body>
