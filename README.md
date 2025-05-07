@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Argentina Image</title>
+  <title>Argentina Images</title>
   <style>
     body {
       margin: 0;
@@ -10,15 +10,19 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      flex-wrap: wrap;
       min-height: 100vh;
     }
     img {
       max-width: 90%;
       height: auto;
+      margin: 10px;
     }
   </style>
 </head>
 <body>
-  <img src="https://raw.githubusercontent.com/sohndesighn/ARGENTINA/main/last.png" alt="ARGENTINA Image">
+  <img src="https://raw.githubusercontent.com/sohndesighn/argentina/main/image1.png" alt="Argentina Image 1">
+ 
+  <!-- 여기에 이미지 파일이 더 있으면 계속 추가 -->
 </body>
 </html>
